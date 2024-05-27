@@ -2,11 +2,19 @@
 ## python tutorial
 - https://docs.python.org/ko/3/tutorial/index.html
 ## 데이터 분석 라이브러리
-- NumPy :  https://numpy.org/doc/stable/index.html
+- NumPy https://numpy.org/doc/stable/index.html
   - NumPy는 수치 계산을 위한 기본 패키지
-- Pandas : 데이터 조작 및 분석을 위한 도구     https://pandas.pydata.org/
-- Matplotlib :  데이터 시각화를 위한 라이브러리 https://matplotlib.org/
-- Seaborn : 통계적 데이터 시각화를 위한 라이브러리 https://seaborn.pydata.org/
+  - 배열 및 행렬 연산 지원
+  - 고성능 수학 함수 제공
+- Pandas https://pandas.pydata.org/
+  - 데이터 조작 및 분석을 위한 도구
+  - DataFrame과 Series 자료 구조 제공
+- Matplotlib [:](https://matplotlib.org/)
+  - 다양한 그래프와 플롯팅 지원
+  - 데이터 시각화 도구
+- Seaborn https://seaborn.pydata.org/
+  - Matplotlib 기반의 고수준 인터페이스
+  - 통계적 데이터 시각화 
 ## 머신러닝 라이브러리
 - Scikit-learn : https://scikit-learn.org/stable/
    머신러닝 알고리즘 제공. 
