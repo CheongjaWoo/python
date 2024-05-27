@@ -43,15 +43,15 @@
   - 비동기 지원 및 자동 문서화
 
 ## 기타 유용한 라이브러리
-- BeautifulSoup
+- BeautifulSoup https://www.crummy.com/software/BeautifulSoup/bs4/doc/
   - HTML과 XML 파싱 도구
   - 웹 스크래핑에 유용
-- Requests
+- Requests https://requests.readthedocs.io/en/latest/
   - HTTP 요청을 간단히 처리
   - REST API와의 통신에 유용
-- SQLAlchemy
+- SQLAlchemy https://docs.sqlalchemy.org
   - SQL Toolkit 및 ORM
   - 데이터베이스 조작을 위한 도구
-- Pygame
+- Pygame https://www.pygame.org/wiki/GettingStarted
   - 게임 개발을 위한 라이브러리
   - 2D 게임 및 멀티미디어 애플리케이션 제작 지원
